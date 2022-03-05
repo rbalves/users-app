@@ -10,6 +10,10 @@
 
 ## 🎨 Layout
 
+![image](https://user-images.githubusercontent.com/26890154/156902442-648331aa-894e-43eb-8165-759aedc5a229.png)
+
+![image](https://user-images.githubusercontent.com/26890154/156902475-e24e3b91-ebf9-43d2-b55c-08a70c94a89d.png)
+
 ---
 
 ## 🚀 Como executar o projeto
